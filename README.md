@@ -6,9 +6,9 @@ Hi, my name is Artyom Goncharov, and I'm a Python developer specializing in Djan
 ## 🔥 What I do:  
 
 - 🌐 Developing web applications using DRF and FastAPI
-- 🔐 Ensuring security and performance of applications
 - 🛠️ Integrating with various services and APIs
 - 🌱 Constantly learning and exploring new technologies
+- 🔐 Ensuring security and performance of applications
 
 ## 🔧 My Tech Stack (sorted by importance):  
 
