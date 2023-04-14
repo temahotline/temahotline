@@ -1,8 +1,6 @@
-```🐍 Python Master at your service! 💻```
+🐍 Python Master at your service! 💻
 
-```Hi, my name is Artyom Goncharov, and I'm a Python developer specializing in Django REST Framework (DRF) and FastAPI! 🚀```
-```
-```
+Hi, my name is Artyom Goncharov, and I'm a Python developer specializing in Django REST Framework (DRF) and FastAPI! 🚀
 
 ```🔥 What I do:```
 ```
