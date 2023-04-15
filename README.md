@@ -10,7 +10,7 @@ Hi, my name is Artyom Goncharov, and I'm a Python developer specializing in Djan
 - 🌱 Constantly learning and exploring new technologies
 - 🔐 Ensuring security and performance of applications
 
-## 🔧 My Tech Stack (sorted by importance):  
+## 🔧 My Tech Stack:  
 
 - 🐍 Python  
 - 🌐 Django  
